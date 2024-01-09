@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import divider from "../../public/pattern-divider-desktop.svg"
 import dice from "../../public/icon-dice.svg"
 export default function AdviceGenerator(){
-    let [randomNumber, setRandomNumber] = useState(62)
+    let [randomNumber, setRandomNumber] = useState(1)
     let [advices, setAdvices] = useState([])
     useEffect(()=>{
         fetch(`https://api.adviceslip.com/advice/${randomNumber}`)

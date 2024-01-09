@@ -1,4 +1,3 @@
-import './App.css'
 import AdviceGenerator from './components/AdviceGenerator'
 function App() {
 

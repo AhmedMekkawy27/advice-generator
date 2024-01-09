@@ -14,7 +14,7 @@ body{
 .container{
   max-width: 550px;
   min-width: 550px;
-  height: 320px;
+  height: 340px;
   background-color: #313a49;
   color: #cee2e9;
   margin: 0 auto;
@@ -63,6 +63,7 @@ body{
   .container{
     transition: 0.5s;
     min-width: 370px;
+    height: 400px;
   }
 }
 @media (max-width: 420px){
