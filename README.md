@@ -28,15 +28,16 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ahmedmekkawy27.github.io/advice-generator/)
+- Live Site URL: [Advice Generator](https://ahmedmekkawy27.github.io/advice-generator/)
 
 ## My process
 
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- CSS custom properties
-- Flexbox
+- React Hooks
+- Styled Components
+- API
 
 ### Continued development
 
